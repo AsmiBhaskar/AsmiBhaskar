@@ -34,7 +34,7 @@ Focus: Emotional support, NLP, user-centric design.
 
 ## 📖 Writing & Leadership
 
-I'm the Secretary of **En-Lit**, my college’s English Literature Council, titled *The Enigmatic Curator*. I also write poems, reviews, and philosophical reflections. Some of my work includes:
+I'm the Secretary of **En-Lit**, my college’s English Literature Council, titled *The Enigmatic Curator*. I also write poems, reviews, and philosophical reflections.
 ---
 
 ## 🎯 Goals
