@@ -1,12 +1,67 @@
-- 👋 Hi, I’m @AsmiBhaskar
-- 👀 I’m interested in a lot of things ranging from game devlopment to big data analysis  
-- 🌱 I’m currently learning flutter, python backend and GDscript
-- 💞️ I’m looking to collaborate on a lot of things, lets see how much i can contribute 
-- 📫 How to reach me - well here is my gmail : blizzardeternal09@gmail.com
-- 😄 Pronouns: He/him, they/dont/know/me/son, 
-- ⚡ Fun fact: i love python! and I love memes, i particularly enjoy poetry too 
 
-<!---
+## 🚀 About Me
+# 👋 Hi there, I'm Asmi Bhaskar!
+
+Welcome to my GitHub! I'm a 2nd-year BCA student with a passion for backend development, full-stack projects, and building practical tools with Python and Flask. Whether it's API-driven applications, AI-powered chatbots, or gamified learning platforms, I love crafting solutions that make an impact.
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:**  
+Python | JavaScript | TypeScript | HTML | CSS | SQL  
+
+**Frameworks & Tools:**  
+Flask | Django SQLite | SQLAlchemy | TTKBootstrap | Bootstrap | Git | VS Code 
+
+**APIs & Cloud:**  
+REST APIs | Google Gemini API |  
+
+**Front-End:**  
+HTML5 | TailwindCSS | JavaScript |TypeScript 
+
+---
+
+## 💼 Projects I'm Proud Of
+
+### 🚀 **EvoEd**
+A gamified learning platform built to make education fun and interactive.  
+Tech: HTML, JS, CSS, Python (Back-end)
+
+### 🧠 **Brain Comfort**
+AI-powered mental health chatbot made using the Gemini API for students, created during a GenAI Hackathon.  
+Focus: Emotional support, NLP, user-centric design.
+
+## 📖 Writing & Leadership
+
+I'm the Secretary of **En-Lit**, my college’s English Literature Council, titled *The Enigmatic Curator*. I also write poems, reviews, and philosophical reflections. Some of my work includes:
+
+- **VERDICT** (Book review series)  
+- **E.P.I.S.T.L.E.** (A poetic letter series)  
+- Dark romantic mythologies and storywriting
+
+---
+
+## 🎯 Goals
+
+- Master Flask and modern API design  
+- Build scalable full-stack applications  
+- Explore AI integration for education and well-being  
+- Improve my frontend skills (Tailwind) 
+- Contribute to open-source
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 LinkedIn: [linkedin.com/in/asmi-bhaskar](linkedin.com/in/asmi-bhaskar-98680b273)
+- ✉️ Email: Blizzardeternal09@gmail.com 
+
+---
+
+> “Code is the poetry of logic, and I’m always learning new verses.”
+
+Thanks for visiting!
 AsmiBhaskar/AsmiBhaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
