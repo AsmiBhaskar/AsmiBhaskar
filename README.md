@@ -57,6 +57,3 @@ I'm the Secretary of **En-Lit**, my college’s English Literature Council, titl
 > “Code is the poetry of logic, and I’m always learning new verses.”
 
 Thanks for visiting!
-AsmiBhaskar/AsmiBhaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
