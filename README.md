@@ -15,6 +15,15 @@ I am Asmi Bhaskar, a BCA 3rd year student. I am passionate about AI/Ml, Backend 
 </div>
 
 ---
+## 🚀 Featured Project:
+<div align="center">
+  <img src="https://img.shields.io/badge/Project-After_You-purple?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Type-Digital_Legacy_Platform-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Built_with-Django_+_MongoDB_+_Blockchain-black?style=for-the-badge&logo=django&logoColor=white" />
+</div>
+
+
+
 [![](https://visitcount.itsvg.in/api?id=AsmiBhaskar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
