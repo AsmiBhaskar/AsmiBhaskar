@@ -29,7 +29,7 @@ I am Asmi Bhaskar, a BCA 3rd year student. I am passionate about AI/Ml, Backend 
 </div>
 
 <p align="center">
-  🔗 <a href="https://github.com/AsmiBhaskar/AfterYou" target="_blank"><strong>Explore the GitHub Repository »</strong></a>
+  🔗 <a href="https://github.com/AsmiBhaskar/after_you" target="_blank"><strong>Explore the GitHub Repository »</strong></a>
 </p>
 
 
