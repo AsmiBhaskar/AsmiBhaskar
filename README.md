@@ -15,12 +15,23 @@ I am Asmi Bhaskar, a BCA 3rd year student. I am passionate about AI/Ml, Backend 
 </div>
 
 ---
+
 ## 🚀 Featured Project:
 <div align="center">
   <img src="https://img.shields.io/badge/Project-After_You-purple?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Type-Digital_Legacy_Platform-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Built_with-Django_+_MongoDB_+_Blockchain-black?style=for-the-badge&logo=django&logoColor=white" />
 </div>
+
+<div align="center">
+  <i>“What happens to your voice, your stories, your thoughts — after you?”<br>
+  <b>This platform ensures it doesn't end in silence.</b></i>
+</div>
+
+<p align="center">
+  🔗 <a href="https://github.com/AsmiBhaskar/AfterYou" target="_blank"><strong>Explore the GitHub Repository »</strong></a>
+</p>
+
 
 
 
