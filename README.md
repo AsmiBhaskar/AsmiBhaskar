@@ -24,7 +24,7 @@ I am Asmi Bhaskar, a BCA 3rd year student. I am passionate about AI/Ml, Backend 
 </div>
 
 <div align="center">
-  <i>“What happens to your voice, your stories, your thoughts — after you?”<br>
+  <i>“What happens to your voice, your stories, your thoughts, after you?”<br>
   <b>This platform ensures it doesn't end in silence.</b></i>
 </div>
 
