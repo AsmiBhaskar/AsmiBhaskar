@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Asmi Bhaskar, a BCA 3rd year student. I am passionate about AI/Ml, Backend Development.<br>Whether it's API-driven applications, AI-powered chatbots, or gamified learning platforms, I love crafting solutions that make an impact.<br><br>Currently working on "After you" a digital legacy platform <br>ever wondered What happens to your voice, your stories, your thoughts — after you? This will make sure it doesn't end in silence<br><br>Fun fact :-<br>"I write letters to ghosts. Sometimes, they reply in Python." 
+I am Asmi Bhaskar, a BCA Final year Full-stack developer. I am passionate about AI/Ml, Backend Development.<br>Whether it's API-driven applications, AI-powered chatbots, or gamified learning platforms, I love crafting solutions that make an impact.<br><br>Currently working on "After you" a digital legacy platform <br>ever wondered What happens to your voice, your stories, your thoughts — after you? This will make sure it doesn't end in silence<br><br>Fun fact :-<br>"I write letters to ghosts. Sometimes, they reply in Python." 
 
 
 ## 🌐 Socials:
