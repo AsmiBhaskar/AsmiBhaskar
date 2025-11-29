@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Asmi Bhaskar, a BCA Final year Full-stack developer. I am passionate about AI/Ml, Backend Development.<br>Whether it's API-driven applications, AI-powered chatbots, or gamified learning platforms, I love crafting solutions that make an impact.<br><br>Currently working on "After you" a digital legacy platform <br>ever wondered What happens to your voice, your stories, your thoughts — after you? This will make sure it doesn't end in silence<br><br>Fun fact :-<br>"I never look back, there is only one way I know, that is forward" 
+I am Asmi Bhaskar, a BCA Final year Full-stack developer. I am passionate about AI/Ml, Backend Development.<br>Whether it's API-driven applications, AI-powered chatbots, or gamified learning platforms, I love crafting solutions that make an impact.<br><br>currently working on "syncode-AI", aiye dekhte hai kya hoga, maza ayega bhenchod<br><br>Fun fact :-<br>"I never look back, there is only one way I know, that is forward" 
 
 
 ## 🌐 Socials:
