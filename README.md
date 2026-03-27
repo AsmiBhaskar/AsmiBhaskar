@@ -11,11 +11,11 @@ I am Asmi Bhaskar, a BCA Final year Full-stack developer. I am passionate about 
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmiBhaskar&theme=midnight-purple&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AsmiBhaskar&theme=midnight-purple" />
   
   <img src="https://streak-stats.demolab.com?user=AsmiBhaskar&theme=midnight-purple" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmiBhaskar&layout=compact&theme=midnight-purple&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AsmiBhaskar&layout=compact&theme=midnight-purple" />
 </div>
 
 ---
