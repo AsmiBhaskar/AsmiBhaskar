@@ -1,40 +1,107 @@
-# 💫 About Me:
-I am Asmi Bhaskar, a BCA Final year Full-stack developer. I am passionate about AI/Ml, Backend Development.<br>Whether it's API-driven applications, AI-powered chatbots, or gamified learning platforms, I love crafting solutions that make an impact.<br><br>currently working on "syncode-AI", aiye dekhte hai kya hoga<br><br>Fun fact :-<br>"I never look back, there is only one way I know, that is forward" 
+#  Asmi Bhaskar
+### 「 The Curator 」
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/asmi-bhaskar-98680b273) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Blizzardeternal09@gmail.com) 
-
-# 💻 Tech Stack:
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github.cards/AsmiBhaskar?template=Minimal" alt="AsmiBhaskar's GitHub Stats Card" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=C9A227&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+ML+Explorer;System+Builder;Establishing+New+Order..." />
+</p>
 
 ---
 
-## 🚀 Featured Project:
-<div align="center">
-  <img src="https://img.shields.io/badge/Project-After_You-purple?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Type-Digital_Legacy_Platform-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Built_with-Django_+_MongoDB_+_Blockchain-black?style=for-the-badge&logo=django&logoColor=white" />
-</div>
+#  SYSTEM PROFILE
 
-<div align="center">
-  <i>“What happens to your voice, your stories, your thoughts, after you?”<br>
-  <b>This platform ensures it doesn't end in silence.</b></i>
-</div>
+```yaml
+Name: Asmi Bhaskar
+Class: System Architect
+Subclass: AI Engineer
+Level: 42
+Rank: B+
+Alignment: Chaotic Constructive
+Core Trait: "Recursion > Perfection"
+```
+
+---
+
+
+#  ACTIVITY MATRIX
 
 <p align="center">
-  🔗 <a href="https://github.com/AsmiBhaskar/after_you" target="_blank"><strong>Explore the GitHub Repository »</strong></a>
+  <img src="https://ghchart.rshah.org/8A2BE2/AsmiBhaskar" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/AsmiBhaskar/AsmiBhaskar?style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/followers/AsmiBhaskar?style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/stars/AsmiBhaskar?affiliations=OWNER&style=for-the-badge&color=purple" />
+</p>
+
+---
+
+## TECH ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,js,ts,mysql,postgres,mongodb,redis,docker,bash,sqlite" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
 </p>
 
 
+---
+
+#  CURRENT QUEST
+
+```diff
++ Project: syncode-AI
++ Status: In Development
++ Objective: Build intelligent, adaptive systems
++ Outcome: Unknown
++ SubObjective:
++   Name: NEW ORDER
++   Status: Unknown
++   Details: Unknown
+```
 
 
-[![](https://visitcount.itsvg.in/api?id=AsmiBhaskar&icon=0&color=0)](https://visitcount.itsvg.in) 
+###  Visualization
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AsmiBhaskar/AsmiBhaskar/refs/heads/main/new_order_logo.svg" width="60%" />
+</p>
+
+
+#  LEGENDARY PROJECT
+
+##  After You
+
+> “What happens to your voice, your stories, your thoughts, after you?”
+
+A Digital Legacy Platform ensuring your existence echoes beyond time.
+
+<p align="center">
+  <a href="https://github.com/AsmiBhaskar/after_you">
+    <img src="https://img.shields.io/badge/ENTER_REPOSITORY-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+# 🌐 SOCIAL LINK
+
+<p align="center">
+  <a href="https://linkedin.com/in/asmi-bhaskar-98680b273">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:Blizzardeternal09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+# 🌌 PHILOSOPHY
+
+> "We make things, in hopes that our way is the one that will be followed."
+
