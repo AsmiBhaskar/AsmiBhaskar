@@ -18,7 +18,9 @@ Rank: B+
 Alignment: Chaotic Constructive
 Core Trait: "Recursion > Perfection"
 ```
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AsmiBhaskar&theme=tokyonight&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=C9A227&dates=aaaaaa&stroke=000000&background=000000" />
+</p>
 ---
 
 
